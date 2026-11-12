@@ -3,12 +3,12 @@
     <channel>
         <title>Planagram</title>
         <item>
-            <title>0.1.5</title>
-            <pubDate>Wed, 11 Nov 2026 17:39:43 +0000</pubDate>
-            <sparkle:version>7</sparkle:version>
-            <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
+            <title>0.1.6</title>
+            <pubDate>Thu, 12 Nov 2026 12:51:48 +0000</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.1.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/common-era-uk/planagram-releases/releases/download/v0.1.5/Planagram-0.1.5.zip" length="2341940" type="application/octet-stream" sparkle:edSignature="n6prigCwsSFFLHxTjMDPCzAloRfBndpRghon4B4xAkgy6RNt8Ge04eHWu15EbI9e0x5D5LTViqP2a0322njaBQ=="/>
+            <enclosure url="https://github.com/common-era-uk/planagram-releases/releases/download/v0.1.6/Planagram-0.1.6.zip" length="2348619" type="application/octet-stream" sparkle:edSignature="v4fYCLjehNJE99xHmUml3CT27suY3/6CHmNM0Y/f5RnhZZ3GboJUSwxsG/GEPD+BbhmM25n74+/8qvZ+fIwMDg=="/>
         </item>
     </channel>
 </rss>
